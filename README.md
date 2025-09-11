@@ -99,7 +99,6 @@ I design, maintain, and improve test automation frameworks, while also building 
 - 🌍 Open to **QA Automation, Software Testing, and Developer roles**  
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=ruveyda444&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ruveyda444&color=blueviolet&style=flat) 
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
