@@ -5,7 +5,6 @@
 💻 Passionate about **quality software engineering** – from testing to development  
 🌍 Based in **Ankara, Türkiye**
 
----
 
 ## 🚀 About Me  
 
@@ -17,7 +16,6 @@ I design, maintain, and improve test automation frameworks, while also building 
 🔹 **CI/CD & Tools:** Git, Jenkins, Maven, Jira, Docker  
 🔹 **Interests:** Backend Development (Java & Spring), API Development, AI & Data Science  
 
----
 
 ## 💼 Professional Experience  
 
@@ -26,7 +24,6 @@ I design, maintain, and improve test automation frameworks, while also building 
 - **QA Automation Engineer @ Strong Pretty Homes (2022)**  
 - **Software Engineer @ Gaziosmanpaşa Üniversitesi (2021 – 2022)**  
 
----
 
 ## 🛠️ Tech Stack & Tools  
 
@@ -45,7 +42,6 @@ I design, maintain, and improve test automation frameworks, while also building 
 **Data Science & Visualization (Academic Background):**  
 - Pandas | NumPy | Matplotlib | Seaborn  
 
----
 
 ## 📌 Featured Projects  
 
@@ -55,7 +51,6 @@ I design, maintain, and improve test automation frameworks, while also building 
 - 🔹 **Java Backend Mini Projects (Learning Journey)** – RESTful APIs with **Spring Boot**  
 - 🔹 **Python Projects** – Data analysis, visualization, and ML basics  
 
----
 
 ## 📖 Learning Path / Roadmap  
 
@@ -66,7 +61,6 @@ I design, maintain, and improve test automation frameworks, while also building 
 - 📌 **Frontend Fundamentals** → HTML, CSS, JavaScript for full-stack exposure  
 - 📌 **Clean Code & OOP Principles** → Writing maintainable, scalable code  
 
----
 
 ## 📜 Certifications  
 
@@ -75,14 +69,13 @@ I design, maintain, and improve test automation frameworks, while also building 
 - **Technology Equality in Opportunities (UNITAR, 2025)**  
 - **Java & Python Bootcamps (Self-Learning + Wise Quarter Mentoring)**  
 
----
 
 ## 📊 GitHub Analytics  
 
 ![Rüveyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
 
----
+
 
 ## 🌐 Connect With Me  
 
@@ -90,6 +83,4 @@ I design, maintain, and improve test automation frameworks, while also building 
 - ✉️ **kubra.ruveyda.arslan@example.com**  
 - 🌍 Open to **QA Automation, Software Testing, and Developer roles**  
 
----
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
