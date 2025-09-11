@@ -1,9 +1,10 @@
-## Hi there 👋
-# 👋 Hi, I'm Kübra Rüveyda Arslan
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kübra%20Rüveyda%20Arslan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=QA%20Engineer%20|%20Developer%20|%20ISTQB%20Certified&descAlignY=55)
+
+# 👋 Hi, I'm Kübra Rüveyda Arslan  
 
 🎓 **Computer Engineering | Software QA Engineer | Developer in Progress | ISTQB® Certified Tester**  
 💻 Passionate about **quality software engineering** – from testing to development  
-🌍 Based in **Ankara, Türkiye**
+🌍 Based in **Ankara, Türkiye**  
 
 
 ## 🚀 About Me  
@@ -17,6 +18,7 @@ I design, maintain, and improve test automation frameworks, while also building 
 🔹 **Interests:** Backend Development (Java & Spring), API Development, AI & Data Science  
 
 
+
 ## 💼 Professional Experience  
 
 - **Software QA Engineer @ Heltia (2024 – Present)**  
@@ -25,31 +27,30 @@ I design, maintain, and improve test automation frameworks, while also building 
 - **Software Engineer @ Gaziosmanpaşa Üniversitesi (2021 – 2022)**  
 
 
-## 🛠️ Tech Stack & Tools  
 
-**Languages & Frameworks:**  
-- Java | Python | HTML | CSS | JavaScript  
+## 🛠️ Languages & Tools  
 
-**Automation & Testing:**  
-- Selenium WebDriver | JUnit | TestNG | Cucumber (BDD) | Appium | Robot Framework | RestAssured | Postman  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
+</p>
 
-**Backend Development (Learning & Practicing):**  
-- Spring Boot | REST API | SQL | Data Structures & Algorithms  
-
-**DevOps & CI/CD:**  
-- Git | Maven | Jenkins | Docker  
-
-**Data Science & Visualization (Academic Background):**  
-- Pandas | NumPy | Matplotlib | Seaborn  
 
 
 ## 📌 Featured Projects  
 
-- 🔹 **SmartFocus (TEKNOFEST Finalist)** – Education technology project ranked **5th in Turkey** 🏆  
-- 🔹 **Selenium-BDD Framework** – Test automation with **Cucumber + POM**  
-- 🔹 **API Automation Framework** – Built with **Java + RestAssured + Cucumber**  
-- 🔹 **Java Backend Mini Projects (Learning Journey)** – RESTful APIs with **Spring Boot**  
-- 🔹 **Python Projects** – Data analysis, visualization, and ML basics  
+| Project | Description | Tech |
+|---------|-------------|------|
+| [FlaskApi_forBackend](https://github.com/SmartFocuss/FlaskApi_forBackend) | Python Flask API for backend services | Python, Flask, REST |
+| [web_page](https://github.com/ruveyda444/web_page) | Full-stack project (frontend + backend) | HTML, CSS, JS, Node.js |
+
 
 
 ## 📖 Learning Path / Roadmap  
@@ -62,6 +63,7 @@ I design, maintain, and improve test automation frameworks, while also building 
 - 📌 **Clean Code & OOP Principles** → Writing maintainable, scalable code  
 
 
+
 ## 📜 Certifications  
 
 - **ISTQB® Foundation Level**  
@@ -70,17 +72,32 @@ I design, maintain, and improve test automation frameworks, while also building 
 - **Java & Python Bootcamps (Self-Learning + Wise Quarter Mentoring)**  
 
 
+
 ## 📊 GitHub Analytics  
 
-![Rüveyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruveyda444&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruveyda444&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruveyda444&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruveyda444&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ruveyda444&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruveyda444&theme=radical" height="250"/>
+</p>
 
 
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ruveydaarslan/])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruveyda444/)  
 - ✉️ **kubra.ruveyda.arslan@example.com**  
 - 🌍 Open to **QA Automation, Software Testing, and Developer roles**  
 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=ruveyda444&color=blueviolet&style=flat)
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
