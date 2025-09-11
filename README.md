@@ -94,7 +94,7 @@ I design, maintain, and improve test automation frameworks, while also building 
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruveyda444/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruveydaarslan/)  
 - ✉️ **ruveydaarslan444@gmail.com**  
 - 🌍 Open to **QA Automation, Software Testing, and Developer roles**  
 
