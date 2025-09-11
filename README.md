@@ -72,8 +72,8 @@ I design, maintain, and improve test automation frameworks, while also building 
 
 ## 📊 GitHub Analytics  
 
-![Rüveyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Rüveyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruveyda444&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruveyda444&layout=compact&theme=radical)  
 
 
 
