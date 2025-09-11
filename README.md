@@ -48,8 +48,8 @@ I design, maintain, and improve test automation frameworks, while also building 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [FlaskApi_forBackend](https://github.com/SmartFocuss/FlaskApi_forBackend) | Python Flask API for backend services | Python, Flask, REST |
-| [web_page](https://github.com/ruveyda444/web_page) | Full-stack project (frontend + backend) | HTML, CSS, JS, Node.js |
+| [FlaskApi_forBackend](https://github.com/SmartFocuss/Backend) | Python Flask API for backend services | Python, Flask, REST |
+| [web_page](https://github.com/SmartFocuss/web_page) | Full-stack project (frontend + backend) | HTML, CSS, JS, Node.js |
 
 
 
@@ -93,7 +93,7 @@ I design, maintain, and improve test automation frameworks, while also building 
 ## 🌐 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruveyda444/)  
-- ✉️ **kubra.ruveyda.arslan@example.com**  
+- ✉️ **ruveydaarslan444@gmail.com**  
 - 🌍 Open to **QA Automation, Software Testing, and Developer roles**  
 
 
