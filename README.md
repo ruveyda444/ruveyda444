@@ -88,7 +88,7 @@ I design, maintain, and improve test automation frameworks, while also building 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruveyda444&theme=radical" height="250"/>
-</p>
+</p> 
 
 
 
