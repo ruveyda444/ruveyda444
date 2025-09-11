@@ -53,6 +53,8 @@ I design, maintain, and improve test automation frameworks, while also building 
 
 
 
+
+
 ## 📖 Learning Path / Roadmap  
 
 🌱 Currently improving myself in **Software Development** alongside QA expertise:  
