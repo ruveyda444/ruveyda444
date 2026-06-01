@@ -1,16 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kübra%20Rüveyda%20Arslan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=QA%20Engineer%20|%20Developer%20|%20ISTQB%20Certified&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kübra%20Rüveyda%20Arslan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=QA%20Automation%20Engineer%20|%20ISTQB®%20Certified&descAlignY=55)
 
 # 👋 Hi, I'm Kübra Rüveyda Arslan  
 
-🎓 **Computer Engineering | Software QA Engineer | Developer in Progress | ISTQB® Certified Tester**  
-💻 Passionate about **quality software engineering** – from testing to development  
+🎓 **Software QA Automation Engineer · ISTQB® Certified Tester**  
+🧪 Mobile (Appium/Flutter) & Web (Selenium) test automation · CI/CD · API testing  
 🌍 Based in **Ankara, Türkiye**  
 
 
 ## 🚀 About Me  
 
-As a **QA Automation Engineer & Developer**, I combine my expertise in **software testing** with my growing skills in **software development**.  
-I design, maintain, and improve test automation frameworks, while also building scalable applications and learning new development technologies.  
+I'm a **QA Automation Engineer** building reliable test infrastructure for a healthcare platform at Heltia. I design and maintain end-to-end automation frameworks — a mobile smoke suite (Appium/Flutter, Cucumber BDD) and Selenium web suites — running on CI with Allure reporting. I care about maintainable, low-flake tests and clear failure diagnostics.  
 
 🔹 **QA Side:** Selenium, TestNG, JUnit, Cucumber, Appium, RestAssured  
 🔹 **Dev Side:** Java, Python (OOP, Data Science basics), HTML, CSS, JavaScript  
@@ -60,14 +59,12 @@ I design, maintain, and improve test automation frameworks, while also building 
 
 
 
-## 📖 Learning Path / Roadmap  
+## 📖 Currently Exploring  
 
-🌱 Currently improving myself in **Software Development** alongside QA expertise:  
-- 📌 **Spring Boot** → Building RESTful APIs and backend services  
-- 📌 **Data Structures & Algorithms** → Strengthening problem-solving with Java  
-- 📌 **Python Projects** → Practicing data analysis & ML basics  
-- 📌 **Frontend Fundamentals** → HTML, CSS, JavaScript for full-stack exposure  
-- 📌 **Clean Code & OOP Principles** → Writing maintainable, scalable code  
+Expanding from QA into backend engineering:  
+- **Spring Boot** — building RESTful APIs and backend services  
+- **Data Structures & Algorithms** — strengthening problem-solving in Java  
+- **Clean Code & OOP** — writing maintainable, scalable systems  
 
 
 
